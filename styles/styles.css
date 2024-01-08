@@ -1,0 +1,11 @@
+.fist-head{
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 400px;
+
+}
