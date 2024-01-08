@@ -3,9 +3,19 @@
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
+    font-family: 'Merriweather', serif;
 }
 .title{
     font-size: 30px;
     font-weight: 400px;
+    color: #fff;
+    text-align: center;
 
+}
+.title-sec{
+    color: #fff;
+    font-size: 70px;
+    font-weight: 900px;
+    text-align: center;
+    line-height: 95px;
 }
