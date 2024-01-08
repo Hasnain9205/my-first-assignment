@@ -4,18 +4,137 @@
     width: 1320px;
     height: 600px;
     font-family: 'Merriweather', serif;
+    border-radius: 16px;
+    margin: 0 auto;
+    
 }
 .title{
     font-size: 30px;
     font-weight: 400px;
-    color: #fff;
+    color: #ffff;
     text-align: center;
+    padding-top: 177px;
 
 }
 .title-sec{
-    color: #fff;
+    color: #ffff;
     font-size: 70px;
     font-weight: 900px;
     text-align: center;
-    line-height: 95px;
+    width: 600px;
+    padding: 0 350px;
+    
+}
+.main{
+    font-family: 'Inter', sans-serif;
+}
+.f-title{
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700px;
+    color: #f00;
+}
+.s-title{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    color: #f00;
+}
+.t-title{
+    text-align: center;
+    font-size: 48px;
+    color: black;
+    font-weight: 700px;
+}
+.img{
+    padding: 0 auto;
+    margin-left: 400px;
+}
+.midnight{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    margin-top: 120px;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 15px;
+    justify-content: space-between;
+    display: flex;
+   
+}
+.w-title{
+    font-size: 64px;
+    font-weight: 900;
+    color: #ffff;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 100px;
+    width: 450px;
+    text-align: left;
+}
+.w-discription{
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffff;
+    width: 700px;
+    padding-left: 120px;
+    text-align: left;
+    width: 500px;
+}
+.btn{
+    background-color: #f00;
+    color: #fff;
+    border-radius: 8px;
+    width: 120px;
+    height: 50px;
+    border: 0;
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+
+}
+.pic{
+    padding: 70px 120px;
+}
+.add{
+    width: 70%;
+    height: 90%;
+    background: rgb(243, 231, 231);
+    border-radius: 15px;
+    margin-left: 130px;
+    padding: 100px 100px 220px 100px;
+    margin-top: 120px;
+}
+.ad-title{
+    padding-left: 380px;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.add-title{
+    padding-left: 330px;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.addd-title{
+    padding-left: 280px;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.adt{
+    color: #f00;
+
+}
+.s-btn{
+    border-radius: 8px;
+    background: #f00;
+    color: #fff;
+    border: 0;
+    width: 120px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 30px;
+    margin-left: 450px;
 }
