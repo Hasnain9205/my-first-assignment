@@ -241,9 +241,7 @@ top: 80px;
 }
 .sstimg{
     position: relative;
-    
-    width: 200px;
-    height: 200px;
+    top: -430px;
 }
 
 /* img */
